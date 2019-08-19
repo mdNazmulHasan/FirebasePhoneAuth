@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirebaseAuth3</string>
+    <string name="phone_title_text">Phone</string>
+    <string name="signed_out">Sign out</string>
+    <string name="hint_phone_number">enter phone number</string>
+    <string name="hint_verification_code">enter verification code</string>
+    <string name="start_phone_auth">start</string>
+    <string name="verify_phone_auth">verify</string>
+    <string name="resend_phone_auth">resend</string>
+    <string name="sign_out">Sign out</string>
+    <string name="status_code_sent">Code is sent</string>
+    <string name="status_verification_failed">verification failed</string>
+    <string name="status_verification_succeeded">verification success</string>
+    <string name="instant_validation">already validated</string>
+    <string name="status_sign_in_failed">Sign in failed</string>
+    <string name="signed_in">signed in</string>
+    <string name="firebase_status_fmt">Signed user:</string>
+</resources>
